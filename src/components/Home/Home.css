@@ -1,0 +1,31 @@
+.emoji-container2 {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.emoji-card2 {
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+}
+
+.emoji-card2:hover {
+    background-color: #f0f0f0;
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: tomato;
+}
+
+h3 {
+    font-size: 1.5em;
+    margin: 0;
+}
